@@ -54,6 +54,3 @@ Modul Programari
 ## Rulare
 1. Deschideti fisierul .csproj al proiectului in Visual Studio.
 2. Apasati Ctrl+F5.
-
-## Autor
-Nume Prenume, grupa ______
