@@ -3,8 +3,8 @@
 Colectie de aplicatii consola in C#, realizate la disciplina Planificarea aplicatiilor desktop.
 
 ## Tehnologii
-- C# / .NET 8
-- Visual Studio 2022
+- C# / .NET 10
+- Visual Studio 2025
 - Git si GitHub
 
 ## Proiecte
